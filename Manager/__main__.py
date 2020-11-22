@@ -1,4 +1,4 @@
-# All codes are from SaitamaRobot
+Z# Tutti i codici provengono da SaitamaRobot
 # All credits go to https://github.com/AnimeKaizoku/SaitamaRobot
 
 import importlib
@@ -20,14 +20,8 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
-
-You know how hard it is sometimes to manage group so here is the solution for you.
-
-My owner is [Aditya 🇮🇳](t.me/xditya)
-
-Click /help or Help button below to find out more about how to use me to my full potential.
-"""
+Z# Tutti i codici provengono da SaitamaRobot
+Ciao Belooooo
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
